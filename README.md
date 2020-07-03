@@ -1,3 +1,6 @@
 # MusicLibrary-DataStructures
 
-A music library built in C during a Data Structures exam 
+A music library built in C as an intro to more advanced low level data structures.
+
+# Collaborator 
+@tripincloud
